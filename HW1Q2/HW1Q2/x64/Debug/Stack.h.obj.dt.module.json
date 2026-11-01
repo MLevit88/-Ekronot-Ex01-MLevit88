@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "HW1Q2\\x64\\Debug\\Stack.obj",
+            "outputs": [
+                "HW1Q2\\x64\\Debug\\Stack.h.obj.dt.module.json",
+                "HW1Q2\\x64\\Debug\\Stack.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

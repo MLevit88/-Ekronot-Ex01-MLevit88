@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "HW1Q22\\x64\\Debug\\LinkedList.obj",
+            "outputs": [
+                "HW1Q22\\x64\\Debug\\LinkedList.cpp.obj.dt.module.json",
+                "HW1Q22\\x64\\Debug\\LinkedList.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

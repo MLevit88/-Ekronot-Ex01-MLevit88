@@ -146,6 +146,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\HW1Q2\LinkedList.cpp" />
+    <ClCompile Include="..\HW1Q3\Utils.cpp" />
+    <ClCompile Include="..\Tester2\Part2Tester_local.cpp" />
+    <ClCompile Include="Stack.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+/*int main()
 {
     PosIntNode* first = NULL;
     PosIntNode* newNode = createIntNode(13);
@@ -22,7 +22,7 @@ int main()
     printList(first);
 
     return 0;
-}
+}*/
 
 PosIntNode* createIntNode(int value)
 {
